@@ -18,3 +18,12 @@
     border: 0;
     height: 0;
   }
+  
+/* .container>div{
+    background-color: aqua;
+    transition: background-color 0.5s;
+} */
+
+.my-color-class{
+    background-color: black;
+}
